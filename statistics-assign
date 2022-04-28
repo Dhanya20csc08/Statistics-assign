@@ -1,0 +1,9 @@
+> View(population_reli)
+> dhanya<-read_excel("assignment/population reli.xlsx")
+New names:                                                             
+• `` -> `...30`
+> mean(dhanya$persons)
+[1] 543657.3
+> sd(dhanya$Females)
+[1] 539708.9
+> 
